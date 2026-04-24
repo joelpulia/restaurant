@@ -1,0 +1,17 @@
+.title {
+    color: red;
+    font-family: fantasy;
+    text-align: center
+    
+} 
+body{color: rgb(130, 53, 53);
+text-align: center;
+background-color: antiquewhite}
+hr {color: crimson;
+    border: 0; 
+    border-top: 3px solid #ff0000;}
+ul{text-align:left}
+ul{font: bolder;}
+p{font: bolder;
+font-size: large}
+
